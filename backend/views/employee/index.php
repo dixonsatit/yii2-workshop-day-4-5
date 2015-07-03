@@ -4,7 +4,7 @@ use yii\helpers\Html;
 use yii\grid\GridView;
 use common\models\Employee;
 
-
+echo 'xxx';
 
 /* @var $this yii\web\View */
 /* @var $searchModel backend\models\EmployeeSearch */
